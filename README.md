@@ -1,3 +1,9 @@
+# Moved to a Library
+I've built a library that does that.
+See [ForEvolve.Pdf](https://github.com/ForEvolve/ForEvolve-Framework/tree/master/src/ForEvolve.Pdf)
+
+---
+
 # Generate PDF from HTML in .NET CORE!
  This project uses PhantomJs [http://phantomjs.org] executables to generated pdf from html strings.
  This library should work on Windows, Linux and OSX, it checks for the platform on the fly and uses the appropriate executable.
